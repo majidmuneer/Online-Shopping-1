@@ -1,0 +1,5 @@
+D:\.NET Programs 2015\Online Shopping 1\Online Shopping 1\bin\Online Shopping 1.dll
+D:\.NET Programs 2015\Online Shopping 1\Online Shopping 1\bin\Online Shopping 1.pdb
+D:\.NET Programs 2015\Online Shopping 1\Online Shopping 1\obj\Debug\Online Shopping 1.dll
+D:\.NET Programs 2015\Online Shopping 1\Online Shopping 1\obj\Debug\Online Shopping 1.pdb
+D:\.NET Programs 2015\Online Shopping 1\Online Shopping 1\obj\Debug\Online Shopping 1.csprojResolveAssemblyReference.cache
